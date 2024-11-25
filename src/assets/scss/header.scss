@@ -1,0 +1,39 @@
+.page {
+    //height: 2000px;
+}
+  
+header {
+    padding: 0;
+}
+  
+.logo {
+    padding: 0;
+    margin: 0;
+    display: block;
+    width: 100%;
+    height: 270px;
+    background: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    margin: 0;
+    padding: 0;
+    display: block;
+    position: absolute;
+    background: #fff;
+    border-radius: 10px;
+    width: 100%;
+    height: 80px;
+    .row {
+        width: 100%;
+        height: 100%;
+        li {
+            list-style: none;
+            float: left;
+            padding: 5px;
+        }
+    }
+}
