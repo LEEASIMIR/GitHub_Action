@@ -17,7 +17,7 @@ export default {
                 <th>User</th>
             </thead>
             <tbody>
-                <td>{{  }}</td>
+                <td>도커 반영 확인 텍스트</td>
                 <td></td>
                 <td></td>
                 <td></td>
